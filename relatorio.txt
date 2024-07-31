@@ -3,7 +3,7 @@ Instruções para Elaboração do Relatório
 Abaixo estão as orientações sobre o que deve ser abordado em cada seção do relatório. Siga estas diretrizes para garantir que seu relatório esteja completo e bem estruturado.
 
 1. Introdução
-Nesta seção, você deve apresentar uma visão geral da atividade realizada. Explique brevemente o que é o Robocode e o objetivo da atividade. Inclua informações sobre a importância do controle de versão e como ele se relaciona com o desenvolvimento de software.
+Esta é a introdução e essa é a primeira mudança, estou satisfeito com meus conhecimentos de git? Não, mas é por isso que estou realizando esse relatório. seção, você deve apresentar uma visão geral da atividade realizada. Explique brevemente o que é o Robocode e o objetivo da atividade. Inclua informações sobre a importância do controle de versão e como ele se relaciona com o desenvolvimento de software.
 2. Objetivos da Atividade
 Liste os objetivos específicos que você esperava alcançar com a atividade. Por exemplo, aprender a programar, entender o funcionamento do Git, e desenvolver habilidades de trabalho em equipe. Seja claro e conciso.
 3. Descrição da Atividade
