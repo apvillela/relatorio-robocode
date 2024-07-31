@@ -1,0 +1,30 @@
+Instruções para Elaboração do Relatório
+
+Abaixo estão as orientações sobre o que deve ser abordado em cada seção do relatório. Siga estas diretrizes para garantir que seu relatório esteja completo e bem estruturado.
+
+1. Introdução
+Nesta seção, você deve apresentar uma visão geral da atividade realizada. Explique brevemente o que é o Robocode e o objetivo da atividade. Inclua informações sobre a importância do controle de versão e como ele se relaciona com o desenvolvimento de software.
+2. Objetivos da Atividade
+Liste os objetivos específicos que você esperava alcançar com a atividade. Por exemplo, aprender a programar, entender o funcionamento do Git, e desenvolver habilidades de trabalho em equipe. Seja claro e conciso.
+3. Descrição da Atividade
+Descreva detalhadamente como a atividade foi conduzida. Inclua informações sobre:
+O processo de programação dos tanques de guerra.
+Como o Git foi utilizado para controle de versão.
+A colaboração entre os membros do grupo e o uso do GitHub.
+Esta seção deve fornecer uma visão clara do que foi feito e como as ferramentas foram aplicadas.
+4. Estrutura do Git Utilizada
+Explique a estrutura do Git que você utilizou durante a atividade. Inclua detalhes sobre:
+Repositório: Como foi criado e organizado.
+Branches: Descreva as diferentes branches que você criou (como main, develop e feature) e o propósito de cada uma.
+Commits: Fale sobre a importância dos commits e como você fez isso, incluindo a prática de escrever mensagens claras.
+Pull Requests: Explique o que são pull requests e como você os utilizou para integrar o código.
+Esta seção deve mostrar como você aplicou os conceitos de controle de versão na prática.
+5. Resultados e Aprendizados
+Refletir sobre o que você aprendeu com a atividade. Discuta os resultados obtidos, tanto em termos de programação quanto de colaboração. Inclua desafios que você enfrentou e como os superou, além de habilidades que você desenvolveu.
+6. Conclusão
+Resuma as principais conclusões da atividade. Reforce a importância do que foi aprendido e como isso pode ser aplicado em futuras experiências de programação e trabalho em equipe.
+7. Anexos
+Inclua qualquer material adicional que possa enriquecer seu relatório, como:
+Capturas de tela do Robocode mostrando seu tanque em ação.
+Exemplos de commits e pull requests que você realizou.
+Documentação adicional que você considera relevante.
