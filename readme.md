@@ -66,7 +66,7 @@ Commits: Os commits foram fundamentais para documentar o progresso e as alteraç
 
 Pull Requests: Abrimos pull requests para integrar as alterações feitas nas branches (de feature) para a branch main. Pull requests serviram para revisar e discutir as mudanças antes da integração, garantindo que todas as alterações fossem revisadas por outros membros da equipe e estivessem alinhadas com o código principal. Durante esse processo, resolvemos pelo menos um problema de mesclagem, que foi feito propositalmente para praticar a resolução de conflitos e garantir uma integração suave das alterações.
 
-Além disso, para garantir que todos os membros compreendessem o uso do GitHub, elaboramos este relatório de forma versionada utilizando a mesma ferramenta. Isso possibilitou que os integrantes com menos familiaridade com o GitHub se familiarizassem melhor com suas funcionalidades e a importância do controle de versão.
+Além disso, para garantir que todos os membros compreendessem o uso do GitHub, elaboramos este relatório de forma versionada utilizando a mesma ferramenta. Isso possibilitou que os integrantes com menos familiaridade com o GitHub se familiarizassem melhor com suas funcionalidades e a importância do controle de versão. 
 
 ## RESULTADOS E APRENDIZADOS
 
@@ -86,8 +86,8 @@ Além disso, a atividade nos ensinou a importância de uma documentação clara 
 
 ## CONCLUSAO
 
-A atividade proporcionou uma visão prática e abrangente de aspectos fundamentais da programação e colaboração em equipe. Trabalhar com o Robocode e utilizar o GitHub para versionamento e controle de código nos permitiu aplicar conceitos teóricos em um ambiente prático e dinâmico.
+Nosso robozasso infelizmente não ganhou mas o que a equipe ganhou foi muito mais valioso: a atividade proporcionou uma visão prática e abrangente de aspectos fundamentais da programação e colaboração em equipe. Trabalhar com o Robocode e utilizar o GitHub para versionamento e controle de código nos permitiu aplicar conceitos teóricos em um ambiente prático e dinâmico.
 
-A principal conclusão é que a integração efetiva de técnicas de programação, como orientação a objetos e algoritmos, com ferramentas de controle de versão, é crucial para o desenvolvimento de projetos de software. A experiência de criar, testar e otimizar robôs, juntamente com a resolução de conflitos e a colaboração no GitHub, ressaltou a importância de uma abordagem estruturada e colaborativa no desenvolvimento de software.
+A principal conclusão é que a integração efetiva de técnicas de programação, como orientação a objetos e algoritmos, com ferramentas de controle de versão, é crucial para o desenvolvimento de projetos de software. A experiência de criar, testar e otimizar robôs, juntamente com a resolução de conflitos e a colaboração no GitHub, ressaltou a importância de uma abordagem estruturada e colaborativa no desenvolvimento de software bem como a de um ambiente onde possam ser discutidas as estratégias e rumos que queremos seguir não só com esse mas com qualquer projeto.
 
 Esses aprendizados são diretamente aplicáveis em futuros projetos de programação e trabalho em equipe. A capacidade de adaptar estratégias rapidamente, resolver conflitos de código e colaborar eficientemente são habilidades valiosas que contribuirão para o sucesso em qualquer ambiente de desenvolvimento. Em suma, a atividade reforçou a importância de integrar teoria e prática, e a experiência adquirida será fundamental para enfrentar desafios futuros com mais confiança e competência.
